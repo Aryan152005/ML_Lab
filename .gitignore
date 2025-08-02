@@ -1,0 +1,73 @@
+# Python virtual environments
+**/venv/
+**/.venv/
+**/env/
+**/.env/
+
+# Python cache files
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/*.pyd
+
+# Node.js dependencies
+**/node_modules/
+
+# macOS
+.DS_Store
+
+# VS Code and JetBrains IDEs
+.vscode/
+.idea/
+
+# Log and temp files
+**/*.log
+**/*.tmp
+**/*.swp
+**/*~
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Compiled C/C++ files
+**/*.o
+**/*.obj
+**/*.exe
+**/*.out
+**/*.dll
+**/*.so
+**/*.a
+
+# Build folders
+**/build/
+**/dist/
+**/*.egg-info/
+
+# dotenv and secret files
+**/.env
+**/.env.*
+
+# Coverage and test reports
+**/.coverage
+**/htmlcov/
+**/coverage.xml
+**/.pytest_cache/
+**/.mypy_cache/
+**/.tox/
+**/.nox/
+**/nosetests.xml
+
+# Git files
+*.orig
+
+# System files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Lock files
+**/package-lock.json
+**/yarn.lock
+**/pipfile.lock
+
+**/Datasets/
