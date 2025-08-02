@@ -30,6 +30,7 @@ All code and project directories for this analysis are publicly available at the
 - Purpose: The dataset contains detailed, monthly metrics on the MGNREGA scheme's implementation across different districts and states of India. It is ideal for analyzing regional disparities, seasonal trends, and the effectiveness of the program.
 
 - Data Files for Reference:
+    - Original Data Folder (Batch JSON): [https://drive.google.com/drive/folders/1w79IXPB--I8TaScseNsi1SyVsp4KW7pV?usp=sharing](https://drive.google.com/drive/folders/1w79IXPB--I8TaScseNsi1SyVsp4KW7pV?usp=sharing)
 
     - Original Data (Combined JSON): [https://drive.google.com/file/d/1bOgJutfjL2uoTreNE09SC5rGuUnFi4mU/view?usp=sharing](https://drive.google.com/file/d/1bOgJutfjL2uoTreNE09SC5rGuUnFi4mU/view?usp=sharing)
 
